@@ -1,4 +1,4 @@
-<mxfile modified="2022-02-09T10:23:19.796Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="KIcwfhJ-AKnaHIxTBGAd" version="16.5.4" type="github">
+<mxfile modified="2022-02-09T10:24:01.222Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="CfH34LszBBMU7c_MUrg-" version="16.5.4" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -155,6 +155,12 @@
         </mxCell>
         <mxCell id="m-Myh3C7QMHVJur2ZRFy-71" value="主数据库" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;fontSize=17;fontColor=#330000;" vertex="1" parent="m-Myh3C7QMHVJur2ZRFy-9">
           <mxGeometry x="202" y="510" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m-Myh3C7QMHVJur2ZRFy-72" value="应用服务器" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;fontSize=17;fontColor=#330000;" vertex="1" parent="m-Myh3C7QMHVJur2ZRFy-9">
+          <mxGeometry x="192" y="310" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m-Myh3C7QMHVJur2ZRFy-73" value="应用服务器" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;fontSize=17;fontColor=#330000;" vertex="1" parent="m-Myh3C7QMHVJur2ZRFy-9">
+          <mxGeometry x="610" y="310" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="m-Myh3C7QMHVJur2ZRFy-49" value="Security group" style="fillColor=none;strokeColor=#DD3522;verticalAlign=top;fontStyle=0;fontColor=#DD3522;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="440" width="80" height="90" as="geometry" />
