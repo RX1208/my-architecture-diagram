@@ -1,4 +1,4 @@
-<mxfile modified="2022-05-22T12:28:41.524Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="MbUXgUeEMGNsvr20X9Q9" version="18.1.1" type="github">
+<mxfile modified="2022-05-22T12:29:45.086Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="16fvgRd_Rofhi23bucB5" version="18.1.1" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="2585" dy="1511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -266,6 +266,9 @@
         </mxCell>
         <mxCell id="rXpL0Un035cBdJI2pf8q-115" value="Internet Gateway" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=17;fontColor=#000000;" vertex="1" parent="rXpL0Un035cBdJI2pf8q-112">
           <mxGeometry x="406" y="55" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rXpL0Un035cBdJI2pf8q-177" value="Subnet:ACL" style="shape=mxgraph.ibm.box;prType=subnet;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;strokeWidth=3;dashed=0;container=1;spacing=-4;collapsible=0;expand=0;recursiveResize=0;fontSize=18;fontColor=#000000;" vertex="1" parent="rXpL0Un035cBdJI2pf8q-112">
+          <mxGeometry x="86" y="361" width="820" height="290" as="geometry" />
         </mxCell>
         <mxCell id="rXpL0Un035cBdJI2pf8q-116" value="Availability Zone" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;" vertex="1" parent="rXpL0Un035cBdJI2pf8q-110">
           <mxGeometry x="316" y="114" width="300" height="730" as="geometry" />
@@ -1234,6 +1237,9 @@
         </mxCell>
         <mxCell id="rXpL0Un035cBdJI2pf8q-175" value="USER" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="2880" y="100" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rXpL0Un035cBdJI2pf8q-176" value="Subnet:ACL" style="shape=mxgraph.ibm.box;prType=subnet;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;fillColor=none;rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;strokeWidth=3;dashed=0;container=1;spacing=-4;collapsible=0;expand=0;recursiveResize=0;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="820" width="820" height="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
