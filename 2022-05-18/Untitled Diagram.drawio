@@ -1,4 +1,4 @@
-<mxfile modified="2022-05-22T01:33:36.513Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="bqlXzpV96FOIcSXx1s9O" version="18.1.1" type="github">
+<mxfile modified="2022-05-22T01:34:06.005Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="ovao7nIUGVP-R23eZaGW" version="18.1.1" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="2031" dy="1187" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -493,7 +493,7 @@
           <mxGeometry x="820.0000000000002" y="658" width="78" height="44" as="geometry" />
         </mxCell>
         <mxCell id="oiIDUnYNHTpMOxStJqNs-10" value="Amazon&lt;br&gt;DynamoDB&lt;br&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;fillColor=#3334B9;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.dynamodb;labelBackgroundColor=#ffffff;spacingTop=5;" vertex="1" parent="oiIDUnYNHTpMOxStJqNs-1">
-          <mxGeometry x="690.0000000000002" y="658" width="78" height="78" as="geometry" />
+          <mxGeometry x="680.0000000000002" y="658" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="oiIDUnYNHTpMOxStJqNs-12" value="Availability Zone" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;" vertex="1" parent="oiIDUnYNHTpMOxStJqNs-1">
           <mxGeometry x="460" y="400" width="610" height="140" as="geometry" />
